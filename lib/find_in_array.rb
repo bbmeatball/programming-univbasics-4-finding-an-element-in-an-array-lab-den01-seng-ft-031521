@@ -1,3 +1,4 @@
 def find_element_index(array, value_to_find)
-  # Add your solution here
+  for value_to_find in array 
+  puts value_to_find
 end
